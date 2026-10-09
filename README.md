@@ -1,70 +1,69 @@
-# NovaMed Solutions - Sales Performance Analysis
+# 💊 NovaMed Solutions | Sales Analytics Dashboard
 
-## Project Overview
+### 📊 Turning Pharmaceutical Sales Data into Business Insights
 
-This project analyzes the sales performance of NovaMed Solutions, a pharmaceutical distribution company. Using Power BI, the analysis explores revenue, profitability, product performance, customer behavior, sales trends, and geographic revenue distribution.
+An interactive sales analytics project focused on exploring revenue, profitability, product performance, customer contributions, and regional sales trends using Power BI.
 
-The goal is to identify business opportunities and provide data-driven recommendations to support sales growth, inventory planning, and customer engagement.
+---
 
-## Key Performance Indicators (KPIs)
+## 🖼️ Dashboard Gallery
 
-| Metric | Result |
-|---|---:|
-| Total Revenue | $71M |
-| Total Profit | $58M |
-| Cost of Goods Sold | $13M |
-| Total Quantity Sold | 269K |
-| Average Revenue per Customer | $357K |
-| Profit Margin | 81.97% |
-| Total Products | 40 |
-| Total Customers | 200 |
-
-## Dashboard Screenshots
-
-### 1. Sales and Product Performance
-
-![NovaMed Top Bottom Analysis](novamed%20top%20bottom%20analysis.png)
-
-This report highlights overall business performance, monthly revenue and profit trends, top- and bottom-performing products, customer revenue contribution, and product sales volume.
-
-### 2. Customer Analysis
+### 👥 Customer Analysis
 
 ![NovaMed Customer Analysis](novamed%20customer%20analysis.png)
 
-This report explores customer revenue by gender, customer segment, age group, and country to identify important customer groups and geographic markets.
+### 🏆 Top & Bottom Product Analysis
 
-## Key Findings
+![NovaMed Top and Bottom Analysis](novamed%20top%20bottom%20analysis.png)
 
-- **Sales trends:** January recorded the highest monthly revenue at $6.8M, while February and October experienced notable declines.
-- **Product performance:** Doxycycline generated the highest revenue and profit among the products analyzed.
-- **Customer contribution:** Customer ID 191 generated the highest revenue at approximately $803,622.
-- **Geographic performance:** Canada generated approximately $31M in revenue, followed by Australia at approximately $15M.
-- **Sales volume:** Lisinopril was the highest-volume product, with approximately 11.1K units sold.
+---
 
-## Business Recommendations
+## 📌 Key Performance Indicators
 
-- Investigate monthly sales fluctuations to understand the causes of revenue declines.
-- Improve inventory planning for high-volume products to reduce stockout risks.
-- Review pricing, marketing, and distribution strategies for lower-performing products.
-- Strengthen relationships with high-revenue customers through targeted retention programs.
-- Explore opportunities to expand sales in strong geographic markets.
+| 📊 Metric | 💡 Result |
+|---|---:|
+| 💰 Total Revenue | $71M |
+| 📈 Total Profit | $58M |
+| 🧾 Cost of Goods Sold | $13M |
+| 📦 Quantity Sold | 269K |
+| 👥 Total Customers | 200 |
+| 💵 Average Revenue per Customer | $357K |
+| 🎯 Profit Margin | 81.97% |
+| 💊 Products Analyzed | 40 |
 
-## Tools and Skills
+---
 
-**Tools:** Microsoft Power BI
+## 🔍 Key Business Insights
 
-**Skills demonstrated:**
-- Business performance analysis
-- KPI reporting
-- Sales and profitability analysis
-- Product performance analysis
-- Customer segmentation
-- Geographic revenue analysis
-- Data visualization
-- Business recommendations
+- 📅 **Monthly performance:** January recorded the highest revenue at approximately $6.8M, while February and October showed revenue dips.
+- 💊 **Product performance:** Doxycycline was the leading product by revenue and profit.
+- 🌎 **Regional performance:** Canada generated approximately $31M in revenue, followed by Australia at approximately $15M.
+- 👥 **Customer contribution:** Customer 191 generated approximately $803,622 in revenue.
+- 📦 **Product volume:** Lisinopril recorded the highest sales volume at approximately 11.1K units.
 
-## Project Outcome
+---
 
-The analysis provides insights into business performance and identifies opportunities to improve sales consistency, inventory management, customer engagement, and market growth.
+## 🎯 Business Recommendations
 
-*Note: This portfolio project presents an analysis of the data represented in the project presentation.*
+- 📈 Investigate the factors behind January's revenue peak and use those insights to support future sales planning.
+- 🔎 Review February and October performance to identify potential opportunities for improvement.
+- 💊 Evaluate the factors contributing to Doxycycline's strong performance.
+- 🌎 Explore opportunities to strengthen sales in existing and underperforming regions.
+- 👥 Analyze high-value customers to understand purchasing patterns and support customer retention.
+
+---
+
+## 🛠️ Tools & Skills
+
+- 📊 **Power BI** — Dashboard development and data visualization
+- 📉 **Data Analysis** — Exploring trends and performance
+- 🎯 **KPI Reporting** — Tracking revenue, profit, and sales volume
+- 💡 **Business Intelligence** — Translating data into actionable insights
+
+---
+
+## 💡 Project Takeaway
+
+This project demonstrates how interactive dashboards can help transform pharmaceutical sales data into meaningful insights about product performance, customer value, profitability, and regional trends.
+
+**Focus Areas:** `Power BI` · `Sales Analytics` · `Data Visualization` · `KPI Reporting` · `Business Intelligence`
