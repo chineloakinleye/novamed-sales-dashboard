@@ -1,4 +1,4 @@
-# NovaMed Solutions — Sales Performance Analysis
+# NovaMed Solutions - Sales Performance Analysis
 
 ## Project Overview
 
